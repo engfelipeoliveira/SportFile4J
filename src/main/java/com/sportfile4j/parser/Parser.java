@@ -7,8 +7,8 @@ public class Parser {
 	public static void main(String[] args) throws Exception {
 
 		//String fileName = "C:\\tmp\\garmin.fit";
-		// String fileName = "C:\\tmp\\pedalada.tcx";
-		 String fileName = "C:\\tmp\\corrida.gpx";
+		 String fileName = "C:\\tmp\\corrida_ao_entardecer.tcx";
+		 // String fileName = "C:\\tmp\\corrida.gpx";
 		
 		String ext = new File(fileName).getName().toLowerCase();
 
